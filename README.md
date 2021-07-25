@@ -4,4 +4,4 @@ checkout the site at
 https://sagar19197.github.io/GAMES-STORE/index
 
 Technologies used -
-HTML, CSS and Bootstrap 4
+HTML, CSS and Bootstrap 4.
